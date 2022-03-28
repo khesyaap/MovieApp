@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="txt_movie_title">Movie Title</string>
+    <string name="txt_release_date">Release Date</string>
+    <string name="txt_movies_catalog">Movies Catalog</string>
+    <string name="txt_popular_movies">Popular Movies</string>
+</resources>
